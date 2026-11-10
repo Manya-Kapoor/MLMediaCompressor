@@ -65,6 +65,8 @@ mlcompress video input.mov --n_colors 16 --saveas out
 - A PIL.Image.Image object representing the compressed image.
 - A mp4 file representing the compressed video.
 
+
+
 # Contributing
 - github: https://github.com/1Nitin1/MLMediaCompressor
 - Fork, branch, PR workflow
