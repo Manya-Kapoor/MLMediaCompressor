@@ -68,7 +68,6 @@ mlcompress video input.mov --n_colors 16 --saveas out
 
 
 # Contributing
-- github: https://github.com/1Nitin1/MLMediaCompressor
 - Fork, branch, PR workflow
 - For major changes, please open an issue first to discuss what you’d like to change.
 
